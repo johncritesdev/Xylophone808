@@ -1,0 +1,92 @@
+.DS_Store
+Xylophone808/Assets.xcassets/AppIcon.appiconset/1024.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/114.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/120.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/180.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/29.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/40.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/57.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/58.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/60.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/80.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/87.png
+Xylophone808/Assets.xcassets/AppIcon.appiconset/Contents.json
+Xylophone808/Sound File/note1.wav
+Xylophone808/Sound File/note2.wav
+Xylophone808/Sound File/note3.wav
+Xylophone808/Sound File/note4.wav
+Xylophone808/Sound File/note5.wav
+Xylophone808/Sound File/note6.wav
+Xylophone808/Sound File/note7.wav
+
+## Build generated
+build/
+DerivedData/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
+# Packages/
+# Package.pins
+# Package.resolved
+.build/
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# Pods/
+#
+# Add this line if you want to avoid checking in source code from the Xcode workspace
+# *.xcworkspace
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+
+Carthage/Build
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
